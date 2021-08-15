@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e7a6c99.chunk.css",
+    "main.js": "/static/js/main.9ebd2b3c.chunk.js",
+    "main.js.map": "/static/js/main.9ebd2b3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.022c0918.js",
+    "runtime-main.js.map": "/static/js/runtime-main.022c0918.js.map",
+    "static/js/2.8f6ccd82.chunk.js": "/static/js/2.8f6ccd82.chunk.js",
+    "static/js/2.8f6ccd82.chunk.js.map": "/static/js/2.8f6ccd82.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7e7a6c99.chunk.css.map": "/static/css/main.7e7a6c99.chunk.css.map",
+    "static/js/2.8f6ccd82.chunk.js.LICENSE.txt": "/static/js/2.8f6ccd82.chunk.js.LICENSE.txt",
+    "static/media/Ali.677c9e33.jpg": "/static/media/Ali.677c9e33.jpg",
+    "static/media/SCO.1795593a.jpg": "/static/media/SCO.1795593a.jpg",
+    "static/media/aboutme.4b487c78.jpg": "/static/media/aboutme.4b487c78.jpg",
+    "static/media/index.css": "/static/media/foto.c861d689.jpg",
+    "static/media/logomail.3a5c46f2.png": "/static/media/logomail.3a5c46f2.png",
+    "static/media/todo.ddf18e9d.jpg": "/static/media/todo.ddf18e9d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022c0918.js",
+    "static/js/2.8f6ccd82.chunk.js",
+    "static/css/main.7e7a6c99.chunk.css",
+    "static/js/main.9ebd2b3c.chunk.js"
+  ]
+}
